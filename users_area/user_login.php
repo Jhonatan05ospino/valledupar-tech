@@ -1,6 +1,6 @@
 <?php
 include('../mysql/conexion.php');
-// include('../functions/common_functions.php');
+include('../functions/common_functions.php');
 @session_start();
 ?>
 <!DOCTYPE html>
